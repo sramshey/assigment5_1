@@ -40,3 +40,7 @@ used to help visualize the data.
    are the least likely.
 9. People are more likely to accept a coupon if their destination is 'No Urgent Place'
    rather than Home or Work
+
+#### Author Contact Info
+
+Stefan Amshey <sramshey@gmail.com>
